@@ -1,0 +1,5 @@
+<map id="streamz.h" name="streamz.h">
+<area shape="rect" id="node1" title="Streamz header." alt="" coords="57,5,137,32"/>
+<area shape="rect" id="node2" href="$main_8cpp.html" title="Main project file, contains functions to run the menus." alt="" coords="5,80,80,107"/>
+<area shape="rect" id="node3" href="$streamz_8cpp.html" title="Streamz body." alt="" coords="105,80,199,107"/>
+</map>

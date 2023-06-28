@@ -1,0 +1,7 @@
+<map id="Streamer::allowPrivate" name="Streamer::allowPrivate">
+<area shape="rect" id="node1" title="If streaming privately, adds a nick to the whitelist." alt="" coords="5,56,156,83"/>
+<area shape="rect" id="node2" href="$class_private_stream.html#a7172077206c9c91b439a73ed8d13a963" title="Add nickname to whitelist." alt="" coords="204,5,371,32"/>
+<area shape="rect" id="node4" href="$class_stream.html#a7f429bd23811898e1eed58ae303e51af" title="For stream, always false." alt="" coords="227,56,348,83"/>
+<area shape="rect" id="node5" href="$class_streamer.html#ac1c6e2758bbfb8de822ed65f5266a625" title="Checks if the streamer has a stream on." alt="" coords="217,107,357,133"/>
+<area shape="rect" id="node3" href="$ficheiros_2utils_8cpp.html#a0c059e7053ab8418c35efd508d797496" title="Makes all letters lowercase." alt="" coords="419,5,499,32"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Streamer::addToHistory" name="Streamer::addToHistory">
+<area shape="rect" id="node1" title="Adds a stream pointer to the history." alt="" coords="389,31,548,57"/>
+<area shape="rect" id="node2" href="$class_streamer.html#a1b7486cdb05449d966b730f1cdb64112" title="Ends the stream, making pointer nullptr and adding it to history." alt="" coords="195,5,341,32"/>
+<area shape="rect" id="node4" href="$class_stream_z.html#ab2eb474a6946504078a9d5d06b91130e" title="Loads current state from a file." alt="" coords="203,56,333,83"/>
+<area shape="rect" id="node3" href="$class_stream_z.html#a66f8f0fa6868a38a92676c3ee4fd7865" title="Deletes a user, ie removes them from the list, closes streams/leaves them and delete()" alt="" coords="5,5,147,32"/>
+<area shape="rect" id="node5" href="$ficheiros_2main_8cpp.html#ae7abed80d31463acb6a616ffd991f41e" title="Handles receiving a path and loading from it." alt="" coords="53,56,99,83"/>
+</map>

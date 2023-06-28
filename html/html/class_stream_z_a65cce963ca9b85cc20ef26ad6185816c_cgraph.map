@@ -1,0 +1,4 @@
+<map id="StreamZ::sortViews" name="StreamZ::sortViews">
+<area shape="rect" id="node1" title="Sorts a vector of stream pointer based on number of final viewers." alt="" coords="5,5,141,32"/>
+<area shape="rect" id="node2" href="$class_stream.html#a886d5b91bd1a71113ce5b73d0a3905fb" title="Viewer Count." alt="" coords="189,5,352,32"/>
+</map>

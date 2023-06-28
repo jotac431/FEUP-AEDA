@@ -1,0 +1,4 @@
+<map id="StreamZ::reactivateUser" name="StreamZ::reactivateUser">
+<area shape="rect" id="node1" title="Sets a user back to active, or reactivated if streamer." alt="" coords="129,5,291,32"/>
+<area shape="rect" id="node2" href="$main_8cpp.html#a3515cb8a3699bad00baf8616470093bd" title="Handles de/reactivating accounts." alt="" coords="5,5,81,32"/>
+</map>

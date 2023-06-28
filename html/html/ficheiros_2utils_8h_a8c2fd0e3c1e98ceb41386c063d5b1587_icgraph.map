@@ -1,0 +1,14 @@
+<map id="sequentialSearch" name="sequentialSearch">
+<area shape="rect" id="node1" title="Procura numa lista." alt="" coords="767,56,889,83"/>
+<area shape="rect" id="node2" href="$class_private_stream.html#a4e5d5ae896158c7fb8d9af7c47228ff9" title="Remove nickname from whitelist." alt="" coords="516,5,719,32"/>
+<area shape="rect" id="node5" href="$class_stream.html#a7f0118aa2949e6ded887693f94b857c7" title="Removes a certain viewer." alt="" coords="541,56,693,83"/>
+<area shape="rect" id="node8" href="$class_private_stream.html#a0d0cad07903750a66fbc5c81fc59481e" title="Function to check whether a user is allowed in a private stream." alt="" coords="527,107,708,133"/>
+<area shape="rect" id="node3" href="$class_streamer.html#ad997572406d26dd2287c8c9113a9ff62" title="If streaming privately, removes a nick from the whitelist, and kick the person out if theyre watching..." alt="" coords="297,5,460,32"/>
+<area shape="rect" id="node4" href="$ficheiros_2main_8cpp.html#a59e421da11060cbd266402aace4ed61e" title="Handles adding or removing from whitelist." alt="" coords="136,5,205,32"/>
+<area shape="rect" id="node6" href="$class_viewer.html#a1bcb6d912b95fe17dca5d6c0b811ffe7" title="Leaves current stream, exception ViewerNotWatching if not in one." alt="" coords="309,56,449,83"/>
+<area shape="rect" id="node7" href="$class_stream_z.html#a66f8f0fa6868a38a92676c3ee4fd7865" title="Deletes a user, ie removes them from the list, closes streams/leaves them and delete()" alt="" coords="100,56,241,83"/>
+<area shape="rect" id="node9" href="$class_stream_z.html#a5b2801f3beec52ece265ec65ad001342" title="Tries to make a viewer watch a stream and handles exceptions." alt="" coords="289,107,468,133"/>
+<area shape="rect" id="node10" href="$ficheiros_2main_8cpp.html#ae38a61dd9472fec14cfcf75b42f899cf" title="Handles getting the streamer nickname which the viewer wants to join." alt="" coords="149,107,192,133"/>
+<area shape="rect" id="node11" href="$class_stream_z.html#ab2eb474a6946504078a9d5d06b91130e" title="Loads current state from a file." alt="" coords="105,157,236,184"/>
+<area shape="rect" id="node12" href="$ficheiros_2main_8cpp.html#ae7abed80d31463acb6a616ffd991f41e" title="Handles receiving a path and loading from it." alt="" coords="5,157,52,184"/>
+</map>

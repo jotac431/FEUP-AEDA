@@ -1,0 +1,12 @@
+<map id="StreamZ::inactiveStreams" name="StreamZ::inactiveStreams">
+<area shape="rect" id="node1" title="Cycles trough all streamers to get all inactive streams." alt="" coords="569,132,740,159"/>
+<area shape="rect" id="node2" href="$class_stream_z.html#a8e0232633338ee9ec6f2f8308d7b6b39" title="Calls activeStreams() and then adds the stream archive streams too." alt="" coords="371,81,513,108"/>
+<area shape="rect" id="node9" href="$class_stream_z.html#a0a58f5fe222e9667a01ba1c0c0b63fdf" title="Displays average views, used by admins." alt="" coords="363,132,521,159"/>
+<area shape="rect" id="node10" href="$class_stream_z.html#a71187aa8babfe08cb02ff334dd6b988d" title="Lists the top 10 stream history by likes and views, used by all users." alt="" coords="383,183,501,209"/>
+<area shape="rect" id="node3" href="$class_stream_z.html#a1db73fe1b39e64e682da20694281b827" title="Displays most common streams by type and language, used by admins." alt="" coords="154,5,307,32"/>
+<area shape="rect" id="node4" href="$class_stream_z.html#af7473362bda002025e77031934bcd708" title="Counts number of private and public streams in a range, used by admins." alt="" coords="155,56,307,83"/>
+<area shape="rect" id="node6" href="$class_stream_z.html#ab4ff6488de312152e3e94b970827d275" title="Lists all streams that have the current language, active first, used by all users." alt="" coords="171,107,290,133"/>
+<area shape="rect" id="node8" href="$class_stream_z.html#acf9245afd4703be8eacfa074d714b779" title="Displays total created streams, used by admins." alt="" coords="147,157,315,184"/>
+<area shape="rect" id="node5" href="$ficheiros_2main_8cpp.html#a7bf816d8a13255da4b0c762f558eb803" title="Gets the dates to do a private&#45;public in a given range search." alt="" coords="5,56,99,83"/>
+<area shape="rect" id="node7" href="$ficheiros_2main_8cpp.html#a413220c7a3e920a7f2d2f897e0ceea74" title="Handles getting parameters to call a search function." alt="" coords="21,107,83,133"/>
+</map>

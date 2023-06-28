@@ -1,0 +1,5 @@
+<map id="Streamer::save" name="Streamer::save">
+<area shape="rect" id="node1" title="Used to save to files." alt="" coords="5,31,115,57"/>
+<area shape="rect" id="node2" href="$class_stream.html#ad1707cca91585539c9050687d6eef5d3" title="Used to save to files." alt="" coords="183,5,282,32"/>
+<area shape="rect" id="node3" href="$class_streamer.html#ac1c6e2758bbfb8de822ed65f5266a625" title="Checks if the streamer has a stream on." alt="" coords="163,56,303,83"/>
+</map>

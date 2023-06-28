@@ -1,0 +1,4 @@
+<map id="StreamZ::sortLikes" name="StreamZ::sortLikes">
+<area shape="rect" id="node1" title="Sorts a vector of stream pointers based on number of likes." alt="" coords="5,5,137,32"/>
+<area shape="rect" id="node2" href="$class_stream.html#a8636b345e777a18d23ba1a88f82482b8" title="Number of likes." alt="" coords="185,5,307,32"/>
+</map>

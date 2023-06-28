@@ -1,0 +1,10 @@
+<map id="User::inactive" name="User::inactive">
+<area shape="rect" id="node1" title="Check activity." alt="" coords="364,107,464,133"/>
+<area shape="rect" id="node2" href="$class_stream_z.html#a3cc8d097e4dc293e003167232ac55600" title="Adds a donation to the list." alt="" coords="159,5,309,32"/>
+<area shape="rect" id="node3" href="$class_stream_z.html#ad6dad57ebcfe4a29e50eaf79d8f9ae05" title="Deactivates a user, closes streams/leaves them and sets state to inactive." alt="" coords="152,56,316,83"/>
+<area shape="rect" id="node5" href="$class_stream_z.html#a1c970a9bed883293b5c0ef322388f520" title="Viewer deletes Purchase Orders from streamer." alt="" coords="165,157,303,184"/>
+<area shape="rect" id="node7" href="$class_stream_z.html#ab0f8130262471cb7cce38136961ba722" title="Viewer makes a Purchase Order to streamer." alt="" coords="163,208,305,235"/>
+<area shape="rect" id="node8" href="$class_stream_z.html#a4b9aa93681e76441d782516421676591" title="Sets a user back to active, or reactivated if streamer." alt="" coords="153,107,315,133"/>
+<area shape="rect" id="node4" href="$main_8cpp.html#a3515cb8a3699bad00baf8616470093bd" title="Handles de/reactivating accounts." alt="" coords="17,95,93,121"/>
+<area shape="rect" id="node6" href="$main_8cpp.html#a2bbfac587cfc2d41494e70bc39aded90" title="Handles getting args for purchasing requests/deletions." alt="" coords="5,171,104,197"/>
+</map>

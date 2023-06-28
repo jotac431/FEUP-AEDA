@@ -1,0 +1,9 @@
+<map id="firstUpper" name="firstUpper">
+<area shape="rect" id="node1" title="Makes all lowercase, 1st uppercase." alt="" coords="529,56,607,83"/>
+<area shape="rect" id="node2" href="$class_streamer.html#a644cedf0991ab9bbc6dfccd62eca51df" title="Creates a private stream, throws StreamerAlreadyStreaming if streamer is already streaming." alt="" coords="281,5,481,32"/>
+<area shape="rect" id="node4" href="$class_streamer.html#ac067e7a52656e7989e45feb17bcb2e54" title="Creates a stream, throws StreamerAlreadyStreaming if streamer is already streaming." alt="" coords="301,56,462,83"/>
+<area shape="rect" id="node5" href="$class_stream_z.html#a916337646c8b8e3b4b58cc9368e64d4d" title="Gets a vector of stream pointers, removes streams that dont have language == lang." alt="" coords="305,107,457,133"/>
+<area shape="rect" id="node3" href="$ficheiros_2main_8cpp.html#aa5f6c64e44cc3044360006a0c6d53ff6" title="Handles stream creation." alt="" coords="124,31,224,57"/>
+<area shape="rect" id="node6" href="$class_stream_z.html#ab4ff6488de312152e3e94b970827d275" title="Lists all streams that have the current language, active first, used by all users." alt="" coords="115,107,233,133"/>
+<area shape="rect" id="node7" href="$ficheiros_2main_8cpp.html#a413220c7a3e920a7f2d2f897e0ceea74" title="Handles getting parameters to call a search function." alt="" coords="5,107,67,133"/>
+</map>

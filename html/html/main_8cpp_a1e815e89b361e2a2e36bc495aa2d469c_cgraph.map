@@ -1,0 +1,11 @@
+<map id="feedback" name="feedback">
+<area shape="rect" id="node1" title="Handles getting parameters and calling feedback functions." alt="" coords="5,107,80,133"/>
+<area shape="rect" id="node2" href="$ficheiros_2utils_8cpp.html#a0c059e7053ab8418c35efd508d797496" title="Makes all letters lowercase." alt="" coords="169,56,249,83"/>
+<area shape="rect" id="node3" href="$class_viewer.html#a0472106504b871eb879105f046680972" title="Adds message feedback on a private stream." alt="" coords="128,107,291,133"/>
+<area shape="rect" id="node8" href="$class_viewer.html#a94bfba0927cc69fdd65d0b5883b6bfd4" title="Adds a like or dislike to the currently watched stream." alt="" coords="129,157,289,184"/>
+<area shape="rect" id="node4" href="$class_user.html#a0d92dd92076037e61fc17e6d67e35698" title="Gets nickname." alt="" coords="391,5,492,32"/>
+<area shape="rect" id="node5" href="$class_stream.html#a7f429bd23811898e1eed58ae303e51af" title="For stream, always false." alt="" coords="381,56,502,83"/>
+<area shape="rect" id="node6" href="$class_private_stream.html#a316172798bb08508a597b90f5b8d35f9" title="Adds a message to the list of private messages." alt="" coords="339,107,544,133"/>
+<area shape="rect" id="node7" href="$class_viewer.html#ad7b314efbe2fed24b6b6ba7aada7cf70" title="Checks if viewer is watching a stream." alt="" coords="381,157,501,184"/>
+<area shape="rect" id="node9" href="$class_stream.html#a736a6dddd99e97b9693a4a310127a4c5" title="Gives feedback, on likes or dislikes." alt="" coords="379,208,503,235"/>
+</map>

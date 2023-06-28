@@ -1,0 +1,8 @@
+<map id="Streamer::removePrivate" name="Streamer::removePrivate">
+<area shape="rect" id="node1" title="If streaming privately, removes a nick from the whitelist, and kick the person out if theyre watching..." alt="" coords="5,56,168,83"/>
+<area shape="rect" id="node2" href="$class_stream.html#a7f429bd23811898e1eed58ae303e51af" title="For stream, always false." alt="" coords="257,5,378,32"/>
+<area shape="rect" id="node3" href="$class_private_stream.html#a4e5d5ae896158c7fb8d9af7c47228ff9" title="Remove nickname from whitelist." alt="" coords="216,56,419,83"/>
+<area shape="rect" id="node6" href="$class_streamer.html#ac1c6e2758bbfb8de822ed65f5266a625" title="Checks if the streamer has a stream on." alt="" coords="247,107,387,133"/>
+<area shape="rect" id="node4" href="$ficheiros_2utils_8cpp.html#a0c059e7053ab8418c35efd508d797496" title="Makes all letters lowercase." alt="" coords="488,31,568,57"/>
+<area shape="rect" id="node5" href="$ficheiros_2utils_8h.html#a8c2fd0e3c1e98ceb41386c063d5b1587" title="Procura numa lista." alt="" coords="467,81,589,108"/>
+</map>

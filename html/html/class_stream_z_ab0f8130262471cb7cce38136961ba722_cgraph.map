@@ -1,0 +1,7 @@
+<map id="StreamZ::purchOrder" name="StreamZ::purchOrder">
+<area shape="rect" id="node1" title="Viewer makes a Purchase Order to streamer." alt="" coords="5,56,148,83"/>
+<area shape="rect" id="node2" href="$class_streamer.html#a4227ed2d15f345ebde159c6083b5c57d" title="Returns stucked used in Purchase orders." alt="" coords="196,5,361,32"/>
+<area shape="rect" id="node3" href="$class_user.html#a24fe288f747ba3fe6e5aa4e001750f88" title="Check activity." alt="" coords="229,56,329,83"/>
+<area shape="rect" id="node4" href="$class_streamer.html#ab3a8bede5086bfd25ff1377b2f51cdeb" title="Pushes Purchase Order to priority queue viewerMerch." alt="" coords="206,107,351,133"/>
+<area shape="rect" id="node5" href="$class_purchase_order.html#a001e503a35d256f8bef305b217dc4c79" title=" " alt="" coords="409,107,596,133"/>
+</map>

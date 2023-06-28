@@ -1,0 +1,5 @@
+<map id="streamerMenu" name="streamerMenu">
+<area shape="rect" id="node1" title="Streamer menu handling their display and commands." alt="" coords="5,31,111,57"/>
+<area shape="rect" id="node2" href="$class_user.html#a0d92dd92076037e61fc17e6d67e35698" title="Gets nickname." alt="" coords="161,5,263,32"/>
+<area shape="rect" id="node3" href="$class_user.html#a7696fba3e9a64d14faa96df0792883f9" title="Returns the proper status." alt="" coords="159,56,265,83"/>
+</map>

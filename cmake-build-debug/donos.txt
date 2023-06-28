@@ -1,0 +1,349 @@
+limit
+10
+streamer
+joao faria
+bigjoao
+inactive
+1997 5 21
+oldstream
+joaos streams
+Portuguese
+12 2020 11 12 3 0 1
+streamer
+Streamer 1
+S1
+active
+2000 12 31
+oldstream
+Stream 1
+Portuguese
+12 2020 11 5 2 1 4
+order
+V2
+2 4
+streamer
+Streamer 2
+S2
+reactivated
+2000 12 31
+oldstream
+Stream 2
+German
+12 2020 11 5 3 0 3
+streamer
+Streamer 3
+S3
+active
+2000 12 31
+oldstream
+Stream 3
+German
+12 2020 11 5 0 0 1
+streamer
+Streamer 4
+S4
+active
+2000 12 31
+oldstream
+Stream 4
+English
+12 2020 11 5 0 0 1
+streamer
+Streamer 5
+S5
+inactive
+2000 12 31
+oldstream
+Stream 5
+Portuguese
+12 2020 11 5 0 1 1
+streamer
+Streamer 6
+S6
+active
+2000 12 31
+oldprivatestream
+Stream 6
+Portuguese
+12 2020 11 5 1 0 3 1
+feedback
+V11: great stream
+V11: love it
+feedbackend
+streamer
+Streamer 7
+S7
+active
+2000 12 31
+oldstream
+Stream 7
+Portuguese
+12 2020 11 5 0 0 0
+streamer
+Streamer 8
+S8
+active
+2000 12 31
+oldstream
+Stream 8
+Portuguese
+12 2020 11 5 0 0 0
+streamer
+Streamer 9
+S9
+active
+2000 12 31
+stream
+Stream 9
+Portuguese
+12 2020 11 5 2 0
+streamer
+Streamer 10
+S10
+active
+2000 12 31
+stream
+Stream 10
+Portuguese
+12 2020 11 5 0 0
+streamer
+Streamer 11
+S11
+active
+2000 12 31
+stream
+Stream 11 reboot
+Spanish
+13 2020 11 5 1 0
+oldstream
+Stream 11
+Spanish
+12 2020 11 5 0 0 0
+streamer
+maria pinto coelho
+mpc
+reactivated
+2001 12 1
+oldprivatestream
+mpc privado
+Portuguese
+16 2020 11 21 2 0 10 1
+feedback
+V1: gosto do stream ta bom
+jc: nice
+feedbackend
+whitelist
+v1
+whitelistend
+streamer
+duarte sardao
+dudu
+active
+2000 12 31
+privatestream
+titulo de stream
+Portuguese
+14 2020 11 27 0 0 5
+whitelist
+v1
+whitelistend
+order
+V2
+2 1
+order
+mad
+7 2
+viewer
+maria
+mad
+active
+2006 11 20
+viewer
+Viewer 1
+V1
+inactive
+2000 12 31
+viewer
+Viewer 2
+V2
+active
+2000 12 31
+viewer
+Viewer 3
+V3
+active
+2000 12 31
+viewer
+Viewer 4
+V4
+active
+2000 12 31
+viewer
+Viewer 5
+V5
+inactive
+2000 12 31
+viewer
+Viewer 6
+V6
+active
+2000 12 31
+viewer
+Viewer 7
+V7
+active
+2000 12 31
+viewer
+Viewer 8
+V8
+inactive
+2000 12 31
+viewer
+Viewer 9
+V9
+active
+2000 12 31
+viewer
+Viewer 10
+V10
+active
+2000 12 31
+viewer
+Viewer 11
+V11
+active
+2000 12 31
+viewer
+Viewer 12
+V12
+active
+2000 12 31
+watching
+S9
+viewer
+Viewer 13
+V13
+active
+2000 12 31
+watching
+S9
+viewer
+Viewer 14
+V14
+active
+2000 12 31
+watching
+S9
+viewer
+Viewer 15
+V15
+active
+2000 12 31
+watching
+S9
+viewer
+Viewer 16
+V16
+active
+2000 12 31
+watching
+S9
+viewer
+Viewer 17
+V17
+active
+2000 12 31
+watching
+S9
+viewer
+Viewer 18
+V18
+active
+2000 12 31
+watching
+S10
+viewer
+Viewer 19
+V19
+active
+2000 12 31
+watching
+S10
+viewer
+Viewer 20
+V20
+active
+2000 12 31
+watching
+S11
+viewer
+Viewer 21
+V21
+active
+2000 12 31
+watching
+S11
+viewer
+Viewer 22
+V22
+active
+2000 12 31
+watching
+S11
+viewer
+Viewer 23
+V23
+active
+2000 12 31
+watching
+S11
+viewer
+Viewer 24
+V24
+active
+2000 12 31
+watching
+S11
+viewer
+jota ce
+jc
+inactive
+1980 6 7
+admin
+Administrator
+Admin
+active
+1990 1 1
+admin
+admin novo
+admin2
+inactive
+2002 9 15
+donation
+dudu
+4.990000
+3
+donation
+S9
+9.990000
+5
+donation
+S1
+100.000000
+2
+donation
+S1
+33.330002
+3
+donation
+dudu
+4.000000
+1
+donation
+S9
+1.250000
+5
+donation
+S11
+0.010000
+1

@@ -1,0 +1,5 @@
+<map id="Streamer::createPrivateStream" name="Streamer::createPrivateStream">
+<area shape="rect" id="node1" title="Creates a private stream, throws StreamerAlreadyStreaming if streamer is already streaming." alt="" coords="5,31,205,57"/>
+<area shape="rect" id="node2" href="$ficheiros_2utils_8cpp.html#a46878cc06673d019f670063d5939f3c6" title="Makes all lowercase, 1st uppercase." alt="" coords="285,5,362,32"/>
+<area shape="rect" id="node3" href="$class_streamer.html#ac1c6e2758bbfb8de822ed65f5266a625" title="Checks if the streamer has a stream on." alt="" coords="253,56,393,83"/>
+</map>

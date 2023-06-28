@@ -1,0 +1,4 @@
+<map id="Streamer::createStream" name="Streamer::createStream">
+<area shape="rect" id="node1" title="Creates a stream, throws StreamerAlreadyStreaming if streamer is already streaming." alt="" coords="153,5,315,32"/>
+<area shape="rect" id="node2" href="$ficheiros_2main_8cpp.html#aa5f6c64e44cc3044360006a0c6d53ff6" title="Handles stream creation." alt="" coords="5,5,105,32"/>
+</map>

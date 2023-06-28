@@ -1,0 +1,4 @@
+<map id="Admin" name="Admin">
+<area shape="rect" id="node1" title="Class for admins and their actions." alt="" coords="5,80,64,107"/>
+<area shape="rect" id="node2" href="$class_user.html" title="Base class for users(viewers, streamers and admins)" alt="" coords="10,5,59,32"/>
+</map>

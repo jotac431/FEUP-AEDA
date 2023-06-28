@@ -1,0 +1,9 @@
+<map id="privatepublic" name="privatepublic">
+<area shape="rect" id="node1" title="Gets the dates to do a private&#45;public in a given range search." alt="" coords="5,56,99,83"/>
+<area shape="rect" id="node2" href="$ficheiros_2main_8cpp.html#a9edb0c0aa23415cf82bef69fc2a96df6" title="Gets and processes a date." alt="" coords="180,5,265,32"/>
+<area shape="rect" id="node3" href="$class_stream_z.html#af7473362bda002025e77031934bcd708" title="Counts number of private and public streams in a range, used by admins." alt="" coords="147,56,299,83"/>
+<area shape="rect" id="node7" href="$ficheiros_2main_8cpp.html#aa3b21853f890838c88d047d6c2786917" title="Halts execution until enter is entered." alt="" coords="200,107,245,133"/>
+<area shape="rect" id="node4" href="$class_stream_z.html#a8e0232633338ee9ec6f2f8308d7b6b39" title="Calls activeStreams() and then adds the stream archive streams too." alt="" coords="347,56,488,83"/>
+<area shape="rect" id="node5" href="$class_stream_z.html#aaa2777cd78cf9beaefd018019c9ca2ae" title="Cycles trough all streamers to get all active streams." alt="" coords="541,31,702,57"/>
+<area shape="rect" id="node6" href="$class_stream_z.html#a474b5863b60a71558e61653e1a9bba11" title="Cycles trough all streamers to get all inactive streams." alt="" coords="536,81,707,108"/>
+</map>

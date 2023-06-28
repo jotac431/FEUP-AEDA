@@ -1,0 +1,10 @@
+<map id="ficheiros/exceptions.h" name="ficheiros/exceptions.h">
+<area shape="rect" id="node1" title="Contains exceptions used in the project." alt="" coords="86,5,234,32"/>
+<area shape="rect" id="node2" href="$ficheiros_2streams_8h.html" title="Streams header." alt="" coords="94,80,226,107"/>
+<area shape="rect" id="node3" href="$ficheiros_2streams_8cpp.html" title="Streams body." alt="" coords="5,229,152,256"/>
+<area shape="rect" id="node4" href="$ficheiros_2users_8h.html" title="Users header: contains the User and derived Viewer, Streamer and Admin classes." alt="" coords="167,155,284,181"/>
+<area shape="rect" id="node5" href="$ficheiros_2streamz_8h.html" title="Streamz header." alt="" coords="177,229,309,256"/>
+<area shape="rect" id="node8" href="$ficheiros_2users_8cpp.html" title="Users body." alt="" coords="333,229,464,256"/>
+<area shape="rect" id="node6" href="$ficheiros_2main_8cpp.html" title="Main project file, contains functions to run the menus." alt="" coords="98,304,225,331"/>
+<area shape="rect" id="node7" href="$ficheiros_2streamz_8cpp.html" title="Streamz body." alt="" coords="249,304,396,331"/>
+</map>

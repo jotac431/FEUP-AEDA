@@ -1,0 +1,4 @@
+<map id="Streamer::allowPrivate" name="Streamer::allowPrivate">
+<area shape="rect" id="node1" title="If streaming privately, adds a nick to the whitelist." alt="" coords="123,5,273,32"/>
+<area shape="rect" id="node2" href="$ficheiros_2main_8cpp.html#a59e421da11060cbd266402aace4ed61e" title="Handles adding or removing from whitelist." alt="" coords="5,5,75,32"/>
+</map>

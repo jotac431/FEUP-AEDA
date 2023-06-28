@@ -1,0 +1,7 @@
+<map id="PrivateStream::privateFeedback" name="PrivateStream::privateFeedback">
+<area shape="rect" id="node1" title="Adds a message to the list of private messages." alt="" coords="339,31,544,57"/>
+<area shape="rect" id="node2" href="$class_stream_z.html#ab2eb474a6946504078a9d5d06b91130e" title="Loads current state from a file." alt="" coords="144,5,275,32"/>
+<area shape="rect" id="node4" href="$class_viewer.html#a0472106504b871eb879105f046680972" title="Adds message feedback on a private stream." alt="" coords="128,56,291,83"/>
+<area shape="rect" id="node3" href="$ficheiros_2main_8cpp.html#ae7abed80d31463acb6a616ffd991f41e" title="Handles receiving a path and loading from it." alt="" coords="19,5,66,32"/>
+<area shape="rect" id="node5" href="$ficheiros_2main_8cpp.html#a1e815e89b361e2a2e36bc495aa2d469c" title="Handles getting parameters and calling feedback functions." alt="" coords="5,56,80,83"/>
+</map>

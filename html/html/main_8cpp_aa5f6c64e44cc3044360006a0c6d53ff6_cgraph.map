@@ -1,0 +1,8 @@
+<map id="createStream" name="createStream">
+<area shape="rect" id="node1" title="Handles stream creation." alt="" coords="5,56,105,83"/>
+<area shape="rect" id="node2" href="$class_streamer.html#a644cedf0991ab9bbc6dfccd62eca51df" title="Creates a private stream, throws StreamerAlreadyStreaming if streamer is already streaming." alt="" coords="153,56,353,83"/>
+<area shape="rect" id="node5" href="$class_streamer.html#ac067e7a52656e7989e45feb17bcb2e54" title="Creates a stream, throws StreamerAlreadyStreaming if streamer is already streaming." alt="" coords="173,5,334,32"/>
+<area shape="rect" id="node6" href="$ficheiros_2utils_8cpp.html#a0c059e7053ab8418c35efd508d797496" title="Makes all letters lowercase." alt="" coords="213,107,293,133"/>
+<area shape="rect" id="node3" href="$ficheiros_2utils_8cpp.html#a46878cc06673d019f670063d5939f3c6" title="Makes all lowercase, 1st uppercase." alt="" coords="433,5,510,32"/>
+<area shape="rect" id="node4" href="$class_streamer.html#ac1c6e2758bbfb8de822ed65f5266a625" title="Checks if the streamer has a stream on." alt="" coords="401,56,541,83"/>
+</map>

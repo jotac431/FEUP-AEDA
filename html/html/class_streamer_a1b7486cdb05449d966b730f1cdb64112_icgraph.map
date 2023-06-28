@@ -1,0 +1,4 @@
+<map id="Streamer::endStream" name="Streamer::endStream">
+<area shape="rect" id="node1" title="Ends the stream, making pointer nullptr and adding it to history." alt="" coords="195,5,341,32"/>
+<area shape="rect" id="node2" href="$class_stream_z.html#a66f8f0fa6868a38a92676c3ee4fd7865" title="Deletes a user, ie removes them from the list, closes streams/leaves them and delete()" alt="" coords="5,5,147,32"/>
+</map>

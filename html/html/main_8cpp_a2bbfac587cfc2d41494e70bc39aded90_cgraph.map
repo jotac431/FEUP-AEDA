@@ -1,0 +1,11 @@
+<map id="purchHandler" name="purchHandler">
+<area shape="rect" id="node1" title="Handles getting args for purchasing requests/deletions." alt="" coords="5,56,104,83"/>
+<area shape="rect" id="node2" href="$class_stream_z.html#a1c970a9bed883293b5c0ef322388f520" title="Viewer deletes Purchase Orders from streamer." alt="" coords="154,5,293,32"/>
+<area shape="rect" id="node5" href="$class_user.html#a0d92dd92076037e61fc17e6d67e35698" title="Gets nickname." alt="" coords="173,56,274,83"/>
+<area shape="rect" id="node6" href="$class_stream_z.html#ab0f8130262471cb7cce38136961ba722" title="Viewer makes a Purchase Order to streamer." alt="" coords="152,107,295,133"/>
+<area shape="rect" id="node3" href="$class_streamer.html#a849ec0412041c1d8d2cbd1e75286233a" title="Deletes Purchases Orders from priority queue based on suficient stock." alt="" coords="349,5,501,32"/>
+<area shape="rect" id="node4" href="$class_user.html#a24fe288f747ba3fe6e5aa4e001750f88" title="Check activity." alt="" coords="375,56,475,83"/>
+<area shape="rect" id="node7" href="$class_streamer.html#a4227ed2d15f345ebde159c6083b5c57d" title="Returns stucked used in Purchase orders." alt="" coords="343,107,508,133"/>
+<area shape="rect" id="node8" href="$class_streamer.html#ab3a8bede5086bfd25ff1377b2f51cdeb" title="Pushes Purchase Order to priority queue viewerMerch." alt="" coords="353,157,498,184"/>
+<area shape="rect" id="node9" href="$class_purchase_order.html#a001e503a35d256f8bef305b217dc4c79" title=" " alt="" coords="556,157,743,184"/>
+</map>

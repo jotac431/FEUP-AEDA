@@ -1,0 +1,10 @@
+<map id="StreamZ::search" name="StreamZ::search">
+<area shape="rect" id="node1" title="Lists all streams that have the current language, active first, used by all users." alt="" coords="5,107,124,133"/>
+<area shape="rect" id="node2" href="$class_stream_z.html#a8e0232633338ee9ec6f2f8308d7b6b39" title="Calls activeStreams() and then adds the stream archive streams too." alt="" coords="177,56,319,83"/>
+<area shape="rect" id="node5" href="$class_stream_z.html#a916337646c8b8e3b4b58cc9368e64d4d" title="Gets a vector of stream pointers, removes streams that dont have language == lang." alt="" coords="172,107,324,133"/>
+<area shape="rect" id="node8" href="$class_stream_z.html#ac57d5513d26030652f47898d89373dae" title="Prints a vector of streams." alt="" coords="177,157,319,184"/>
+<area shape="rect" id="node3" href="$class_stream_z.html#aaa2777cd78cf9beaefd018019c9ca2ae" title="Cycles trough all streamers to get all active streams." alt="" coords="377,5,538,32"/>
+<area shape="rect" id="node4" href="$class_stream_z.html#a474b5863b60a71558e61653e1a9bba11" title="Cycles trough all streamers to get all inactive streams." alt="" coords="372,56,543,83"/>
+<area shape="rect" id="node6" href="$ficheiros_2utils_8cpp.html#a46878cc06673d019f670063d5939f3c6" title="Makes all lowercase, 1st uppercase." alt="" coords="419,107,496,133"/>
+<area shape="rect" id="node7" href="$class_stream.html#a6c46e41c618088340b17f84ea16e59ad" title="Gives stream language." alt="" coords="384,157,531,184"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="Date::age" name="Date::age">
+<area shape="rect" id="node1" title="Gets current date and returns age from a given birthdate." alt="" coords="652,52,731,79"/>
+<area shape="rect" id="node2" href="$class_user.html#a71385d4c5a3a509af5024b3c8e1e1aa9" title="Gets user age." alt="" coords="505,52,604,79"/>
+<area shape="rect" id="node3" href="$ficheiros_2main_8cpp.html#ae38a61dd9472fec14cfcf75b42f899cf" title="Handles getting the streamer nickname which the viewer wants to join." alt="" coords="144,27,187,54"/>
+<area shape="rect" id="node4" href="$class_streamer.html#aaa3fcf8b35b56558d0828706b356e108" title="Constructor for streamers." alt="" coords="300,27,436,54"/>
+<area shape="rect" id="node5" href="$class_viewer.html#a9fd61c8cb9890928dc597698c1b62072" title="Viewer constructor." alt="" coords="314,78,422,104"/>
+<area shape="rect" id="node6" href="$class_stream_z.html#a5b2801f3beec52ece265ec65ad001342" title="Tries to make a viewer watch a stream and handles exceptions." alt="" coords="279,128,457,155"/>
+<area shape="rect" id="node7" href="$class_stream_z.html#ab2eb474a6946504078a9d5d06b91130e" title="Loads current state from a file." alt="" coords="100,128,231,155"/>
+<area shape="rect" id="node8" href="$ficheiros_2main_8cpp.html#ae7abed80d31463acb6a616ffd991f41e" title="Handles receiving a path and loading from it." alt="" coords="5,128,52,155"/>
+</map>

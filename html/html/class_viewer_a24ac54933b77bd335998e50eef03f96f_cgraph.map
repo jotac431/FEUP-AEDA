@@ -1,0 +1,6 @@
+<map id="Viewer::save" name="Viewer::save">
+<area shape="rect" id="node1" title="Used to save to files." alt="" coords="5,31,100,57"/>
+<area shape="rect" id="node2" href="$class_stream.html#a3b0374f4ee78ca1238e5110190f2a697" title="Returns nickname of streamer whose stream this belongs to." alt="" coords="148,5,305,32"/>
+<area shape="rect" id="node4" href="$class_viewer.html#ad7b314efbe2fed24b6b6ba7aada7cf70" title="Checks if viewer is watching a stream." alt="" coords="167,56,287,83"/>
+<area shape="rect" id="node3" href="$class_user.html#a0d92dd92076037e61fc17e6d67e35698" title="Gets nickname." alt="" coords="353,5,455,32"/>
+</map>

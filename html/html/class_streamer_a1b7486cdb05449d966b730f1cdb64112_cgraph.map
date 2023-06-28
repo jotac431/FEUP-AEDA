@@ -1,0 +1,6 @@
+<map id="Streamer::endStream" name="Streamer::endStream">
+<area shape="rect" id="node1" title="Ends the stream, making pointer nullptr and adding it to history." alt="" coords="5,56,152,83"/>
+<area shape="rect" id="node2" href="$class_streamer.html#aceb8419e576041677b26748aef7288e3" title="Adds a stream pointer to the history." alt="" coords="200,5,359,32"/>
+<area shape="rect" id="node3" href="$class_stream.html#af5c69562d890aa81c8c8e24280bfa9e0" title="Sets finalviewers, clears from watching and vector." alt="" coords="228,56,331,83"/>
+<area shape="rect" id="node4" href="$class_streamer.html#ac1c6e2758bbfb8de822ed65f5266a625" title="Checks if the streamer has a stream on." alt="" coords="209,107,349,133"/>
+</map>

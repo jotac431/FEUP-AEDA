@@ -1,0 +1,5 @@
+<map id="Stream::removeViewer" name="Stream::removeViewer">
+<area shape="rect" id="node1" title="Removes a certain viewer." alt="" coords="383,5,535,32"/>
+<area shape="rect" id="node2" href="$class_viewer.html#a1bcb6d912b95fe17dca5d6c0b811ffe7" title="Leaves current stream, exception ViewerNotWatching if not in one." alt="" coords="195,5,335,32"/>
+<area shape="rect" id="node3" href="$class_stream_z.html#a66f8f0fa6868a38a92676c3ee4fd7865" title="Deletes a user, ie removes them from the list, closes streams/leaves them and delete()" alt="" coords="5,5,147,32"/>
+</map>

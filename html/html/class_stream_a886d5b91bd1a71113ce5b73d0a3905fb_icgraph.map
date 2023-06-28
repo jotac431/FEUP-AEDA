@@ -1,0 +1,5 @@
+<map id="Stream::getViewerCount" name="Stream::getViewerCount">
+<area shape="rect" id="node1" title="Viewer Count." alt="" coords="217,31,380,57"/>
+<area shape="rect" id="node2" href="$class_streamer.html#a19675822437aaf8c6a5d86fc6481e4ff" title="Prints the current active viewers." alt="" coords="5,5,169,32"/>
+<area shape="rect" id="node3" href="$class_stream_z.html#a65cce963ca9b85cc20ef26ad6185816c" title="Sorts a vector of stream pointer based on number of final viewers." alt="" coords="19,56,155,83"/>
+</map>

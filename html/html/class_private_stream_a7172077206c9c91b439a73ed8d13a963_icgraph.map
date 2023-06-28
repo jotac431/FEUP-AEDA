@@ -1,0 +1,7 @@
+<map id="PrivateStream::addToList" name="PrivateStream::addToList">
+<area shape="rect" id="node1" title="Add nickname to whitelist." alt="" coords="321,31,488,57"/>
+<area shape="rect" id="node2" href="$class_streamer.html#a45a76fcb70eba30452457266cc84bda9" title="If streaming privately, adds a nick to the whitelist." alt="" coords="123,5,273,32"/>
+<area shape="rect" id="node4" href="$class_stream_z.html#ab2eb474a6946504078a9d5d06b91130e" title="Loads current state from a file." alt="" coords="133,56,263,83"/>
+<area shape="rect" id="node3" href="$ficheiros_2main_8cpp.html#a59e421da11060cbd266402aace4ed61e" title="Handles adding or removing from whitelist." alt="" coords="5,5,75,32"/>
+<area shape="rect" id="node5" href="$ficheiros_2main_8cpp.html#ae7abed80d31463acb6a616ffd991f41e" title="Handles receiving a path and loading from it." alt="" coords="17,56,63,83"/>
+</map>

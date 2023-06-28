@@ -1,0 +1,5 @@
+<map id="StreamZ::deletOrder" name="StreamZ::deletOrder">
+<area shape="rect" id="node1" title="Viewer deletes Purchase Orders from streamer." alt="" coords="5,31,144,57"/>
+<area shape="rect" id="node2" href="$class_streamer.html#a849ec0412041c1d8d2cbd1e75286233a" title="Deletes Purchases Orders from priority queue based on suficient stock." alt="" coords="192,5,344,32"/>
+<area shape="rect" id="node3" href="$class_user.html#a24fe288f747ba3fe6e5aa4e001750f88" title="Check activity." alt="" coords="218,56,318,83"/>
+</map>

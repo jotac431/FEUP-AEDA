@@ -1,0 +1,11 @@
+<map id="exceptions.h" name="exceptions.h">
+<area shape="rect" id="node1" title="Contains exceptions used in the project." alt="" coords="61,5,157,32"/>
+<area shape="rect" id="node2" href="$streams_8h.html" title="Streams header." alt="" coords="69,80,149,107"/>
+<area shape="rect" id="node3" href="$streams_8cpp.html" title="Streams body." alt="" coords="5,229,100,256"/>
+<area shape="rect" id="node4" href="$users_8h.html" title="Users header: contains the User and derived Viewer, Streamer and Admin classes." alt="" coords="123,155,188,181"/>
+<area shape="rect" id="node5" href="$userhash_8h_source.html" title=" " alt="" coords="124,229,211,256"/>
+<area shape="rect" id="node9" href="$users_8cpp.html" title="Users body." alt="" coords="235,229,313,256"/>
+<area shape="rect" id="node6" href="$streamz_8h.html" title="Streamz header." alt="" coords="127,304,207,331"/>
+<area shape="rect" id="node7" href="$main_8cpp.html" title="Main project file, contains functions to run the menus." alt="" coords="75,379,150,405"/>
+<area shape="rect" id="node8" href="$streamz_8cpp.html" title="Streamz body." alt="" coords="175,379,269,405"/>
+</map>

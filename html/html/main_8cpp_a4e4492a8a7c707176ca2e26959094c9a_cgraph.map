@@ -1,0 +1,12 @@
+<map id="selection" name="selection">
+<area shape="rect" id="node1" title="Logic to handle receiving a nickname and selecting a user from it then loading their menu." alt="" coords="5,132,80,159"/>
+<area shape="rect" id="node2" href="$ficheiros_2main_8cpp.html#a33028e19b977fe63751db1b518b39243" title="Admin menu handling their display and commands." alt="" coords="136,157,225,184"/>
+<area shape="rect" id="node6" href="$ficheiros_2main_8cpp.html#ac8bb3912a3ce86b15842e79d0b421204" title="Waits 1 second, then prints many newlines to clear the console." alt="" coords="155,208,206,235"/>
+<area shape="rect" id="node7" href="$class_stream_z.html#ac3372c6e5a69c188e1eb7fe4b45a2499" title="Gets a pointer from a nickname." alt="" coords="281,5,396,32"/>
+<area shape="rect" id="node8" href="$ficheiros_2main_8cpp.html#a05996ebebfd6f2b08118665437482f7a" title="Streamer menu handling their display and commands." alt="" coords="128,56,233,83"/>
+<area shape="rect" id="node9" href="$class_user.html#a902b3338981f25630aff8262c13a8d92" title="Pure virtual, used by inheritors." alt="" coords="139,259,222,285"/>
+<area shape="rect" id="node10" href="$ficheiros_2main_8cpp.html#acf6f35e40761cfd4a866272c5aed0051" title="Viewer menu handling their display and commands." alt="" coords="136,107,225,133"/>
+<area shape="rect" id="node3" href="$class_user.html#a0d92dd92076037e61fc17e6d67e35698" title="Gets nickname." alt="" coords="288,56,389,83"/>
+<area shape="rect" id="node4" href="$ficheiros_2main_8cpp.html#a805e0bd3f9ef015d2e312fddd94dbc85" title="Turns strings into enums that can be used in switch statements." alt="" coords="310,107,367,133"/>
+<area shape="rect" id="node5" href="$ficheiros_2utils_8cpp.html#a0c059e7053ab8418c35efd508d797496" title="Makes all letters lowercase." alt="" coords="444,56,524,83"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="PrivateStream::isFull" name="PrivateStream::isFull">
+<area shape="rect" id="node1" title="Checks if private stream hit capacity." alt="" coords="505,31,648,57"/>
+<area shape="rect" id="node2" href="$class_stream_z.html#a5b2801f3beec52ece265ec65ad001342" title="Tries to make a viewer watch a stream and handles exceptions." alt="" coords="279,31,457,57"/>
+<area shape="rect" id="node3" href="$ficheiros_2main_8cpp.html#ae38a61dd9472fec14cfcf75b42f899cf" title="Handles getting the streamer nickname which the viewer wants to join." alt="" coords="144,5,187,32"/>
+<area shape="rect" id="node4" href="$class_stream_z.html#ab2eb474a6946504078a9d5d06b91130e" title="Loads current state from a file." alt="" coords="100,56,231,83"/>
+<area shape="rect" id="node5" href="$ficheiros_2main_8cpp.html#ae7abed80d31463acb6a616ffd991f41e" title="Handles receiving a path and loading from it." alt="" coords="5,56,52,83"/>
+</map>

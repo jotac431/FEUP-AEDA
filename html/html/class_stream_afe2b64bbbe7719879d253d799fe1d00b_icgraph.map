@@ -1,0 +1,4 @@
+<map id="Stream::ageLimit" name="Stream::ageLimit">
+<area shape="rect" id="node1" title="Gives age limit to join." alt="" coords="205,5,327,32"/>
+<area shape="rect" id="node2" href="$class_stream_z.html#ade49ef9838f177813c6755fbca543ee1" title="Gets a vector of stream pointers, removes streams whose minAge &gt; age;." alt="" coords="5,5,157,32"/>
+</map>

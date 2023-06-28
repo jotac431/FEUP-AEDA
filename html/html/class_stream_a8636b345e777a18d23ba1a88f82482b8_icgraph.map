@@ -1,0 +1,4 @@
+<map id="Stream::getLikes" name="Stream::getLikes">
+<area shape="rect" id="node1" title="Number of likes." alt="" coords="185,5,307,32"/>
+<area shape="rect" id="node2" href="$class_stream_z.html#a9231539b4b5917929c266f490c1dfa65" title="Sorts a vector of stream pointers based on number of likes." alt="" coords="5,5,137,32"/>
+</map>

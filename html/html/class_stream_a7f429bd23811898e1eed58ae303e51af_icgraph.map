@@ -1,0 +1,9 @@
+<map id="Stream::isPrivate" name="Stream::isPrivate">
+<area shape="rect" id="node1" title="For stream, always false." alt="" coords="344,81,465,108"/>
+<area shape="rect" id="node2" href="$class_streamer.html#a45a76fcb70eba30452457266cc84bda9" title="If streaming privately, adds a nick to the whitelist." alt="" coords="137,5,287,32"/>
+<area shape="rect" id="node4" href="$class_viewer.html#a0472106504b871eb879105f046680972" title="Adds message feedback on a private stream." alt="" coords="131,107,293,133"/>
+<area shape="rect" id="node6" href="$class_streamer.html#ad997572406d26dd2287c8c9113a9ff62" title="If streaming privately, removes a nick from the whitelist, and kick the person out if theyre watching..." alt="" coords="131,56,293,83"/>
+<area shape="rect" id="node7" href="$class_streamer.html#a6d8de38bf992574815cac95056e91521" title="Prints whitelist if streaming privately." alt="" coords="128,157,296,184"/>
+<area shape="rect" id="node3" href="$ficheiros_2main_8cpp.html#a59e421da11060cbd266402aace4ed61e" title="Handles adding or removing from whitelist." alt="" coords="8,31,77,57"/>
+<area shape="rect" id="node5" href="$ficheiros_2main_8cpp.html#a1e815e89b361e2a2e36bc495aa2d469c" title="Handles getting parameters and calling feedback functions." alt="" coords="5,107,80,133"/>
+</map>

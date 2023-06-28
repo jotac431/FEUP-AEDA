@@ -1,0 +1,4 @@
+<map id="Stream::streamerName" name="Stream::streamerName">
+<area shape="rect" id="node1" title="Returns nickname of streamer whose stream this belongs to." alt="" coords="5,5,163,32"/>
+<area shape="rect" id="node2" href="$class_user.html#a0d92dd92076037e61fc17e6d67e35698" title="Gets nickname." alt="" coords="211,5,312,32"/>
+</map>

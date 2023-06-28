@@ -1,0 +1,4 @@
+<map id="User" name="User">
+<area shape="rect" id="node1" title="Base class for users(viewers, streamers and admins)" alt="" coords="5,95,55,121"/>
+<area shape="rect" id="node2" href="$class_date.html" title="Simple date class, with day/month/years and age calculations." alt="" coords="5,5,55,32"/>
+</map>

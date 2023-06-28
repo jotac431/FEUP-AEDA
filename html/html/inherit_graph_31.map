@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_user.html" title="Base class for users(viewers, streamers and admins)" alt="" coords="5,56,55,83"/>
+<area shape="rect" id="node2" href="$class_admin.html" title="Class for admins and their actions." alt="" coords="111,5,169,32"/>
+<area shape="rect" id="node3" href="$class_streamer.html" title="Class for streamers and their actions." alt="" coords="103,56,177,83"/>
+<area shape="rect" id="node4" href="$class_viewer.html" title="Class for viewers and their actions." alt="" coords="109,107,171,133"/>
+</map>

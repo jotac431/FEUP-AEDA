@@ -1,0 +1,13 @@
+<map id="StreamZ::deleteUser" name="StreamZ::deleteUser">
+<area shape="rect" id="node1" title="Deletes a user, ie removes them from the list, closes streams/leaves them and delete()" alt="" coords="5,183,147,209"/>
+<area shape="rect" id="node2" href="$class_streamer.html#a1b7486cdb05449d966b730f1cdb64112" title="Ends the stream, making pointer nullptr and adding it to history." alt="" coords="195,56,341,83"/>
+<area shape="rect" id="node5" href="$class_streamer.html#ac1c6e2758bbfb8de822ed65f5266a625" title="Checks if the streamer has a stream on." alt="" coords="399,107,539,133"/>
+<area shape="rect" id="node6" href="$class_user.html#a0d92dd92076037e61fc17e6d67e35698" title="Gets nickname." alt="" coords="217,157,319,184"/>
+<area shape="rect" id="node7" href="$class_viewer.html#a1bcb6d912b95fe17dca5d6c0b811ffe7" title="Leaves current stream, exception ViewerNotWatching if not in one." alt="" coords="198,208,338,235"/>
+<area shape="rect" id="node10" href="$class_viewer.html#ad7b314efbe2fed24b6b6ba7aada7cf70" title="Checks if viewer is watching a stream." alt="" coords="409,259,529,285"/>
+<area shape="rect" id="node11" href="$ficheiros_2utils_8cpp.html#a0c059e7053ab8418c35efd508d797496" title="Makes all letters lowercase." alt="" coords="228,309,308,336"/>
+<area shape="rect" id="node3" href="$class_streamer.html#aceb8419e576041677b26748aef7288e3" title="Adds a stream pointer to the history." alt="" coords="389,5,548,32"/>
+<area shape="rect" id="node4" href="$class_stream.html#af5c69562d890aa81c8c8e24280bfa9e0" title="Sets finalviewers, clears from watching and vector." alt="" coords="417,56,520,83"/>
+<area shape="rect" id="node8" href="$class_stream.html#a7f0118aa2949e6ded887693f94b857c7" title="Removes a certain viewer." alt="" coords="393,208,545,235"/>
+<area shape="rect" id="node9" href="$ficheiros_2utils_8h.html#a8c2fd0e3c1e98ceb41386c063d5b1587" title="Procura numa lista." alt="" coords="596,208,719,235"/>
+</map>

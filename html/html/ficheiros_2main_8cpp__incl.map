@@ -1,0 +1,20 @@
+<map id="ficheiros/main.cpp" name="ficheiros/main.cpp">
+<area shape="rect" id="node1" title="Main project file, contains functions to run the menus." alt="" coords="135,5,262,32"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,304,77,331"/>
+<area shape="rect" id="node3" title=" " alt="" coords="263,80,323,107"/>
+<area shape="rect" id="node4" href="$ficheiros_2streamz_8h.html" title="Streamz header." alt="" coords="159,80,239,107"/>
+<area shape="rect" id="node5" title=" " alt="" coords="321,155,367,181"/>
+<area shape="rect" id="node6" title=" " alt="" coords="142,155,207,181"/>
+<area shape="rect" id="node7" href="$ficheiros_2users_8h.html" title="Users header: contains the User and derived Viewer, Streamer and Admin classes." alt="" coords="231,155,297,181"/>
+<area shape="rect" id="node8" href="$ficheiros_2streams_8h.html" title="Streams header." alt="" coords="261,229,341,256"/>
+<area shape="rect" id="node9" title=" " alt="" coords="87,379,142,405"/>
+<area shape="rect" id="node10" href="$ficheiros_2date_8h.html" title="Date header." alt="" coords="539,304,597,331"/>
+<area shape="rect" id="node12" href="$ficheiros_2utils_8h.html" title="Utils headers, some useful functions used troughout the code." alt="" coords="273,304,330,331"/>
+<area shape="rect" id="node13" title=" " alt="" coords="449,379,505,405"/>
+<area shape="rect" id="node14" title=" " alt="" coords="375,379,414,405"/>
+<area shape="rect" id="node17" title=" " alt="" coords="405,304,464,331"/>
+<area shape="rect" id="node18" href="$ficheiros_2exceptions_8h.html" title="Contains exceptions used in the project." alt="" coords="152,304,248,331"/>
+<area shape="rect" id="node11" title=" " alt="" coords="541,379,595,405"/>
+<area shape="rect" id="node15" title=" " alt="" coords="268,379,351,405"/>
+<area shape="rect" id="node16" title=" " alt="" coords="167,379,244,405"/>
+</map>

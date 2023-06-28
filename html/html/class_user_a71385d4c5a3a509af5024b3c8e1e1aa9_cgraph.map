@@ -1,0 +1,4 @@
+<map id="User::getAge" name="User::getAge">
+<area shape="rect" id="node1" title="Gets user age." alt="" coords="5,5,104,32"/>
+<area shape="rect" id="node2" href="$class_date.html#a4e0b0528badcf7931fcbc621eba2d934" title="Gets current date and returns age from a given birthdate." alt="" coords="152,5,231,32"/>
+</map>

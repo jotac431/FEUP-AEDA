@@ -1,0 +1,5 @@
+<map id="StreamZ::filterStreams" name="StreamZ::filterStreams">
+<area shape="rect" id="node1" title="Gets a vector of stream pointers, removes streams that dont have language == lang." alt="" coords="5,31,157,57"/>
+<area shape="rect" id="node2" href="$ficheiros_2utils_8cpp.html#a46878cc06673d019f670063d5939f3c6" title="Makes all lowercase, 1st uppercase." alt="" coords="240,5,317,32"/>
+<area shape="rect" id="node3" href="$class_stream.html#a6c46e41c618088340b17f84ea16e59ad" title="Gives stream language." alt="" coords="205,56,352,83"/>
+</map>

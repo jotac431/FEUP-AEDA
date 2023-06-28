@@ -1,0 +1,5 @@
+<map id="StreamZ::uniqueNickname" name="StreamZ::uniqueNickname">
+<area shape="rect" id="node1" title="Checks if a given nickname has been used before." alt="" coords="5,5,180,32"/>
+<area shape="rect" id="node2" href="$class_stream_z.html#ac3372c6e5a69c188e1eb7fe4b45a2499" title="Gets a pointer from a nickname." alt="" coords="228,5,343,32"/>
+<area shape="rect" id="node3" href="$ficheiros_2utils_8cpp.html#a0c059e7053ab8418c35efd508d797496" title="Makes all letters lowercase." alt="" coords="391,5,471,32"/>
+</map>

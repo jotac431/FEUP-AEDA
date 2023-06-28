@@ -1,0 +1,13 @@
+<map id="Viewer::watching" name="Viewer::watching">
+<area shape="rect" id="node1" title="Checks if viewer is watching a stream." alt="" coords="516,115,636,142"/>
+<area shape="rect" id="node2" href="$class_stream_z.html#a66f8f0fa6868a38a92676c3ee4fd7865" title="Deletes a user, ie removes them from the list, closes streams/leaves them and delete()" alt="" coords="100,14,241,41"/>
+<area shape="rect" id="node3" href="$class_viewer.html#a1bcb6d912b95fe17dca5d6c0b811ffe7" title="Leaves current stream, exception ViewerNotWatching if not in one." alt="" coords="309,39,449,66"/>
+<area shape="rect" id="node4" href="$class_viewer.html#a0472106504b871eb879105f046680972" title="Adds message feedback on a private stream." alt="" coords="297,90,460,117"/>
+<area shape="rect" id="node6" href="$class_viewer.html#a94bfba0927cc69fdd65d0b5883b6bfd4" title="Adds a like or dislike to the currently watched stream." alt="" coords="299,141,459,167"/>
+<area shape="rect" id="node7" href="$class_viewer.html#a24ac54933b77bd335998e50eef03f96f" title="Used to save to files." alt="" coords="331,191,426,218"/>
+<area shape="rect" id="node8" href="$class_stream_z.html#a5b2801f3beec52ece265ec65ad001342" title="Tries to make a viewer watch a stream and handles exceptions." alt="" coords="289,242,468,269"/>
+<area shape="rect" id="node5" href="$ficheiros_2main_8cpp.html#a1e815e89b361e2a2e36bc495aa2d469c" title="Handles getting parameters and calling feedback functions." alt="" coords="133,115,208,142"/>
+<area shape="rect" id="node9" href="$ficheiros_2main_8cpp.html#ae38a61dd9472fec14cfcf75b42f899cf" title="Handles getting the streamer nickname which the viewer wants to join." alt="" coords="149,217,192,243"/>
+<area shape="rect" id="node10" href="$class_stream_z.html#ab2eb474a6946504078a9d5d06b91130e" title="Loads current state from a file." alt="" coords="105,267,236,294"/>
+<area shape="rect" id="node11" href="$ficheiros_2main_8cpp.html#ae7abed80d31463acb6a616ffd991f41e" title="Handles receiving a path and loading from it." alt="" coords="5,267,52,294"/>
+</map>

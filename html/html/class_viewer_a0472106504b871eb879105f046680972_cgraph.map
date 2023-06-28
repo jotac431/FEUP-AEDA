@@ -1,0 +1,7 @@
+<map id="Viewer::privateFeedback" name="Viewer::privateFeedback">
+<area shape="rect" id="node1" title="Adds message feedback on a private stream." alt="" coords="5,81,168,108"/>
+<area shape="rect" id="node2" href="$class_user.html#a0d92dd92076037e61fc17e6d67e35698" title="Gets nickname." alt="" coords="268,5,369,32"/>
+<area shape="rect" id="node3" href="$class_stream.html#a7f429bd23811898e1eed58ae303e51af" title="For stream, always false." alt="" coords="258,56,379,83"/>
+<area shape="rect" id="node4" href="$class_private_stream.html#a316172798bb08508a597b90f5b8d35f9" title="Adds a message to the list of private messages." alt="" coords="216,107,421,133"/>
+<area shape="rect" id="node5" href="$class_viewer.html#ad7b314efbe2fed24b6b6ba7aada7cf70" title="Checks if viewer is watching a stream." alt="" coords="259,157,379,184"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="PrivateStream::removeFromList" name="PrivateStream::removeFromList">
+<area shape="rect" id="node1" title="Remove nickname from whitelist." alt="" coords="333,5,536,32"/>
+<area shape="rect" id="node2" href="$class_streamer.html#ad997572406d26dd2287c8c9113a9ff62" title="If streaming privately, removes a nick from the whitelist, and kick the person out if theyre watching..." alt="" coords="123,5,285,32"/>
+<area shape="rect" id="node3" href="$ficheiros_2main_8cpp.html#a59e421da11060cbd266402aace4ed61e" title="Handles adding or removing from whitelist." alt="" coords="5,5,75,32"/>
+</map>

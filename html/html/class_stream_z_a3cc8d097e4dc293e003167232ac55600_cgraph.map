@@ -1,0 +1,5 @@
+<map id="StreamZ::addDonation" name="StreamZ::addDonation">
+<area shape="rect" id="node1" title="Adds a donation to the list." alt="" coords="5,31,156,57"/>
+<area shape="rect" id="node2" href="$class_user.html#a0d92dd92076037e61fc17e6d67e35698" title="Gets nickname." alt="" coords="204,5,305,32"/>
+<area shape="rect" id="node3" href="$class_user.html#a24fe288f747ba3fe6e5aa4e001750f88" title="Check activity." alt="" coords="205,56,305,83"/>
+</map>

@@ -1,0 +1,10 @@
+<map id="streams.h" name="streams.h">
+<area shape="rect" id="node1" title="Streams header." alt="" coords="69,5,149,32"/>
+<area shape="rect" id="node2" href="$streams_8cpp.html" title="Streams body." alt="" coords="5,155,100,181"/>
+<area shape="rect" id="node3" href="$users_8h.html" title="Users header: contains the User and derived Viewer, Streamer and Admin classes." alt="" coords="123,80,188,107"/>
+<area shape="rect" id="node4" href="$userhash_8h_source.html" title=" " alt="" coords="124,155,211,181"/>
+<area shape="rect" id="node8" href="$users_8cpp.html" title="Users body." alt="" coords="235,155,313,181"/>
+<area shape="rect" id="node5" href="$streamz_8h.html" title="Streamz header." alt="" coords="127,229,207,256"/>
+<area shape="rect" id="node6" href="$main_8cpp.html" title="Main project file, contains functions to run the menus." alt="" coords="75,304,150,331"/>
+<area shape="rect" id="node7" href="$streamz_8cpp.html" title="Streamz body." alt="" coords="175,304,269,331"/>
+</map>

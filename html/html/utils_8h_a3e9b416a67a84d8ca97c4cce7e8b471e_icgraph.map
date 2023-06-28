@@ -1,0 +1,17 @@
+<map id="Color" name="Color">
+<area shape="rect" id="node1" title="Changes the console print colour." alt="" coords="459,284,511,311"/>
+<area shape="rect" id="node2" href="$class_stream_z.html#a0946f8484588f6a293971aaff30e8d30" title="Admin function used to check donations by range." alt="" coords="225,5,403,32"/>
+<area shape="rect" id="node3" href="$class_private_stream.html#ac25d5a7522f227fbd2830ba1e4a3c8a2" title="Lists private stream info." alt="" coords="249,56,379,83"/>
+<area shape="rect" id="node4" href="$class_stream.html#a5ffe8f16c1c64ce1caf51fa37573caeb" title="Displays the first bit of info, which is the same for public and private." alt="" coords="247,107,381,133"/>
+<area shape="rect" id="node6" href="$class_stream.html#a44edb180b7442262f7517ce473b4c88b" title="Displays likes and dislikes by absolute value and percentage." alt="" coords="243,157,385,184"/>
+<area shape="rect" id="node7" href="$class_stream_z.html#a85efa8ecd5e849c5bf8b4a422394eab5" title="Lists donations by their amount." alt="" coords="229,208,399,235"/>
+<area shape="rect" id="node8" href="$class_stream_z.html#a7dbcc09bb2fa8d8c4104635d5be41af8" title="Lists donation by streamer evaluation." alt="" coords="233,259,395,285"/>
+<area shape="rect" id="node9" href="$class_stream_z.html#a0ef80f19f67bb3cf88e2febbd1c1fc58" title="Lists donations of a streamer." alt="" coords="225,309,403,336"/>
+<area shape="rect" id="node10" href="$class_stream_z.html#a71187aa8babfe08cb02ff334dd6b988d" title="Lists the top 10 stream history by likes and views, used by all users." alt="" coords="255,360,373,387"/>
+<area shape="rect" id="node11" href="$class_stream_z.html#ad7efe9f1fc6465917c53486ee1969fac" title="Lists all active users, used by all users." alt="" coords="249,411,379,437"/>
+<area shape="rect" id="node12" href="$class_stream.html#ad641e976ea37b0550e9a722964ed5642" title="Calls likesDisplay(), since theres no private feedback messages." alt="" coords="237,461,391,488"/>
+<area shape="rect" id="node14" href="$class_private_stream.html#a83538b0a559e782b9682ac67940ccc97" title="Prints likes/dislikes + feedback messages;." alt="" coords="217,512,411,539"/>
+<area shape="rect" id="node15" href="$class_streamer.html#a54aff19215bda8f3568c2ae520e1f9ea" title="Print a list of all Purchase Orders from a Streamer." alt="" coords="236,563,392,589"/>
+<area shape="rect" id="node5" href="$class_stream.html#afc559932acb0ecf47b8170058e339afe" title="Lists stream info." alt="" coords="41,132,133,159"/>
+<area shape="rect" id="node13" href="$class_streamer.html#ac9b58075fd95da28d130d197f1aded4d" title="Prints likes/dislikes and if private, messages." alt="" coords="5,461,169,488"/>
+</map>

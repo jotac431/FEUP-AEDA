@@ -1,0 +1,6 @@
+<map id="StreamZ::reactivateUser" name="StreamZ::reactivateUser">
+<area shape="rect" id="node1" title="Sets a user back to active, or reactivated if streamer." alt="" coords="5,56,167,83"/>
+<area shape="rect" id="node2" href="$class_user.html#a24fe288f747ba3fe6e5aa4e001750f88" title="Check activity." alt="" coords="228,5,328,32"/>
+<area shape="rect" id="node3" href="$ficheiros_2utils_8cpp.html#a0c059e7053ab8418c35efd508d797496" title="Makes all letters lowercase." alt="" coords="238,56,318,83"/>
+<area shape="rect" id="node4" href="$class_user.html#a0233558be294dff835148f356ff5e50a" title="Alternates between states." alt="" coords="215,107,341,133"/>
+</map>

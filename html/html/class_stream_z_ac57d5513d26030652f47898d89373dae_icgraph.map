@@ -1,0 +1,6 @@
+<map id="StreamZ::printVector" name="StreamZ::printVector">
+<area shape="rect" id="node1" title="Prints a vector of streams." alt="" coords="343,31,485,57"/>
+<area shape="rect" id="node2" href="$class_stream_z.html#abbc2456f49e0ade735d40f2bcf864d10" title="Lists all active streams, used by all users." alt="" coords="115,5,295,32"/>
+<area shape="rect" id="node3" href="$class_stream_z.html#ab4ff6488de312152e3e94b970827d275" title="Lists all streams that have the current language, active first, used by all users." alt="" coords="145,56,264,83"/>
+<area shape="rect" id="node4" href="$ficheiros_2main_8cpp.html#a413220c7a3e920a7f2d2f897e0ceea74" title="Handles getting parameters to call a search function." alt="" coords="5,56,67,83"/>
+</map>

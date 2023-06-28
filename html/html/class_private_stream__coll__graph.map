@@ -1,0 +1,7 @@
+<map id="PrivateStream" name="PrivateStream">
+<area shape="rect" id="node1" title="Private stream class, derives from stream class." alt="" coords="5,349,108,376"/>
+<area shape="rect" id="node2" href="$class_stream.html" title="Stream class and it&#39;s associated functions." alt="" coords="25,273,89,300"/>
+<area shape="rect" id="node3" href="$class_streamer.html" title="Class for streamers and their actions." alt="" coords="66,184,141,211"/>
+<area shape="rect" id="node4" href="$class_user.html" title="Base class for users(viewers, streamers and admins)" alt="" coords="72,95,121,121"/>
+<area shape="rect" id="node5" href="$class_date.html" title="Simple date class, with day/month/years and age calculations." alt="" coords="24,5,73,32"/>
+</map>

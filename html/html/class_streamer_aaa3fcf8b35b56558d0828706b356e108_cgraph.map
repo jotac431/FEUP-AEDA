@@ -1,0 +1,5 @@
+<map id="Streamer::Streamer" name="Streamer::Streamer">
+<area shape="rect" id="node1" title="Constructor for streamers." alt="" coords="5,5,141,32"/>
+<area shape="rect" id="node2" href="$class_user.html#a71385d4c5a3a509af5024b3c8e1e1aa9" title="Gets user age." alt="" coords="189,5,288,32"/>
+<area shape="rect" id="node3" href="$class_date.html#a4e0b0528badcf7931fcbc621eba2d934" title="Gets current date and returns age from a given birthdate." alt="" coords="336,5,415,32"/>
+</map>

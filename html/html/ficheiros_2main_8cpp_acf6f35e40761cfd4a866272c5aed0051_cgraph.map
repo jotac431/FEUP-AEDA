@@ -1,0 +1,6 @@
+<map id="viewerMenu" name="viewerMenu">
+<area shape="rect" id="node1" title="Viewer menu handling their display and commands." alt="" coords="5,31,95,57"/>
+<area shape="rect" id="node2" href="$class_user.html#a0d92dd92076037e61fc17e6d67e35698" title="Gets nickname." alt="" coords="143,5,244,32"/>
+<area shape="rect" id="node3" href="$ficheiros_2main_8cpp.html#a805e0bd3f9ef015d2e312fddd94dbc85" title="Turns strings into enums that can be used in switch statements." alt="" coords="165,56,222,83"/>
+<area shape="rect" id="node4" href="$ficheiros_2utils_8cpp.html#a0c059e7053ab8418c35efd508d797496" title="Makes all letters lowercase." alt="" coords="292,56,372,83"/>
+</map>

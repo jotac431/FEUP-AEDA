@@ -1,0 +1,5 @@
+<map id="Viewer::Viewer" name="Viewer::Viewer">
+<area shape="rect" id="node1" title="Viewer constructor." alt="" coords="5,5,113,32"/>
+<area shape="rect" id="node2" href="$class_user.html#a71385d4c5a3a509af5024b3c8e1e1aa9" title="Gets user age." alt="" coords="161,5,260,32"/>
+<area shape="rect" id="node3" href="$class_date.html#a4e0b0528badcf7931fcbc621eba2d934" title="Gets current date and returns age from a given birthdate." alt="" coords="308,5,387,32"/>
+</map>

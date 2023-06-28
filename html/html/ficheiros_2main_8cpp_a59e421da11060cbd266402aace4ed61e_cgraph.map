@@ -1,0 +1,11 @@
+<map id="whitelist" name="whitelist">
+<area shape="rect" id="node1" title="Handles adding or removing from whitelist." alt="" coords="5,76,75,103"/>
+<area shape="rect" id="node2" href="$class_streamer.html#a45a76fcb70eba30452457266cc84bda9" title="If streaming privately, adds a nick to the whitelist." alt="" coords="129,76,279,103"/>
+<area shape="rect" id="node4" href="$ficheiros_2utils_8cpp.html#a0c059e7053ab8418c35efd508d797496" title="Makes all letters lowercase." alt="" coords="605,25,685,52"/>
+<area shape="rect" id="node7" href="$class_streamer.html#ad997572406d26dd2287c8c9113a9ff62" title="If streaming privately, removes a nick from the whitelist, and kick the person out if theyre watching..." alt="" coords="123,127,285,153"/>
+<area shape="rect" id="node3" href="$class_private_stream.html#a7172077206c9c91b439a73ed8d13a963" title="Add nickname to whitelist." alt="" coords="351,25,518,52"/>
+<area shape="rect" id="node5" href="$class_stream.html#a7f429bd23811898e1eed58ae303e51af" title="For stream, always false." alt="" coords="374,127,495,153"/>
+<area shape="rect" id="node6" href="$class_streamer.html#ac1c6e2758bbfb8de822ed65f5266a625" title="Checks if the streamer has a stream on." alt="" coords="365,76,505,103"/>
+<area shape="rect" id="node8" href="$class_private_stream.html#a4e5d5ae896158c7fb8d9af7c47228ff9" title="Remove nickname from whitelist." alt="" coords="333,177,536,204"/>
+<area shape="rect" id="node9" href="$ficheiros_2utils_8h.html#a8c2fd0e3c1e98ceb41386c063d5b1587" title="Procura numa lista." alt="" coords="584,177,707,204"/>
+</map>

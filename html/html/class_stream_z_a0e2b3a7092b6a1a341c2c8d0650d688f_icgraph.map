@@ -1,0 +1,6 @@
+<map id="StreamZ::addStreamer" name="StreamZ::addStreamer">
+<area shape="rect" id="node1" title="Constructs and adds a streamer to the list, checks if nickname is used, returns pointer." alt="" coords="279,31,432,57"/>
+<area shape="rect" id="node2" href="$ficheiros_2main_8cpp.html#a32a4ec13b5eb6c25c42b9340386c4fe0" title="Handles getting inputs to create a user." alt="" coords="136,5,195,32"/>
+<area shape="rect" id="node3" href="$class_stream_z.html#ab2eb474a6946504078a9d5d06b91130e" title="Loads current state from a file." alt="" coords="100,56,231,83"/>
+<area shape="rect" id="node4" href="$ficheiros_2main_8cpp.html#ae7abed80d31463acb6a616ffd991f41e" title="Handles receiving a path and loading from it." alt="" coords="5,56,52,83"/>
+</map>

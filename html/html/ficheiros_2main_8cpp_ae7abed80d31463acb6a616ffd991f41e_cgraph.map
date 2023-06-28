@@ -1,0 +1,24 @@
+<map id="load" name="load">
+<area shape="rect" id="node1" title="Handles receiving a path and loading from it." alt="" coords="5,309,52,336"/>
+<area shape="rect" id="node2" href="$ficheiros_2main_8cpp.html#ac8bb3912a3ce86b15842e79d0b421204" title="Waits 1 second, then prints many newlines to clear the console." alt="" coords="356,157,407,184"/>
+<area shape="rect" id="node3" href="$class_stream_z.html#ab2eb474a6946504078a9d5d06b91130e" title="Loads current state from a file." alt="" coords="100,335,231,361"/>
+<area shape="rect" id="node4" href="$class_stream_z.html#afb0821fb13002a6f55ef4b220c4ffd4b" title="Constructs and adds a admin to the list, checks if nickname is used, returns pointer." alt="" coords="313,461,450,488"/>
+<area shape="rect" id="node8" href="$class_stream_z.html#a0e2b3a7092b6a1a341c2c8d0650d688f" title="Constructs and adds a streamer to the list, checks if nickname is used, returns pointer." alt="" coords="305,309,458,336"/>
+<area shape="rect" id="node9" href="$class_streamer.html#aceb8419e576041677b26748aef7288e3" title="Adds a stream pointer to the history." alt="" coords="302,360,461,387"/>
+<area shape="rect" id="node10" href="$class_private_stream.html#a7172077206c9c91b439a73ed8d13a963" title="Add nickname to whitelist." alt="" coords="538,309,705,336"/>
+<area shape="rect" id="node11" href="$class_stream_z.html#a850319a432ebdffe23cb77dafea056ea" title="Constructs and adds a viewer to the list, checks if nickname is used, returns pointer." alt="" coords="312,411,451,437"/>
+<area shape="rect" id="node12" href="$class_private_stream.html#a316172798bb08508a597b90f5b8d35f9" title="Adds a message to the list of private messages." alt="" coords="279,512,484,539"/>
+<area shape="rect" id="node13" href="$class_streamer.html#a00ba6c413efed2edd6786bae63e9b477" title="Sets current active stream to a pointer, used in file loading." alt="" coords="310,563,453,589"/>
+<area shape="rect" id="node14" href="$class_stream_z.html#a5b2801f3beec52ece265ec65ad001342" title="Tries to make a viewer watch a stream and handles exceptions." alt="" coords="532,183,711,209"/>
+<area shape="rect" id="node5" href="$class_stream_z.html#a73780b51815a0f0e6d40267519eed1cc" title="Checks if a given nickname has been used before." alt="" coords="534,411,709,437"/>
+<area shape="rect" id="node6" href="$class_stream_z.html#ac3372c6e5a69c188e1eb7fe4b45a2499" title="Gets a pointer from a nickname." alt="" coords="792,411,907,437"/>
+<area shape="rect" id="node7" href="$ficheiros_2utils_8cpp.html#a0c059e7053ab8418c35efd508d797496" title="Makes all letters lowercase." alt="" coords="1009,335,1089,361"/>
+<area shape="rect" id="node15" href="$class_user.html#a71385d4c5a3a509af5024b3c8e1e1aa9" title="Gets user age." alt="" coords="800,107,899,133"/>
+<area shape="rect" id="node17" href="$class_user.html#a0d92dd92076037e61fc17e6d67e35698" title="Gets nickname." alt="" coords="799,208,900,235"/>
+<area shape="rect" id="node18" href="$class_private_stream.html#a3a347898db797e7a317170b43b7d42f6" title="Checks if private stream hit capacity." alt="" coords="778,259,921,285"/>
+<area shape="rect" id="node19" href="$class_private_stream.html#a0d0cad07903750a66fbc5c81fc59481e" title="Function to check whether a user is allowed in a private stream." alt="" coords="759,157,940,184"/>
+<area shape="rect" id="node21" href="$class_viewer.html#ad7b314efbe2fed24b6b6ba7aada7cf70" title="Checks if viewer is watching a stream." alt="" coords="789,5,909,32"/>
+<area shape="rect" id="node22" href="$class_viewer.html#a60bd983264c9b7b6ae328ad23fb59456" title="Sets watchingStream to given pointer." alt="" coords="777,56,922,83"/>
+<area shape="rect" id="node16" href="$class_date.html#a4e0b0528badcf7931fcbc621eba2d934" title="Gets current date and returns age from a given birthdate." alt="" coords="1010,107,1089,133"/>
+<area shape="rect" id="node20" href="$ficheiros_2utils_8h.html#a8c2fd0e3c1e98ceb41386c063d5b1587" title="Procura numa lista." alt="" coords="988,157,1111,184"/>
+</map>

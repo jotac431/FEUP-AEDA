@@ -1,0 +1,5 @@
+<map id="Viewer::publicFeedback" name="Viewer::publicFeedback">
+<area shape="rect" id="node1" title="Adds a like or dislike to the currently watched stream." alt="" coords="5,31,165,57"/>
+<area shape="rect" id="node2" href="$class_stream.html#a736a6dddd99e97b9693a4a310127a4c5" title="Gives feedback, on likes or dislikes." alt="" coords="213,5,337,32"/>
+<area shape="rect" id="node3" href="$class_viewer.html#ad7b314efbe2fed24b6b6ba7aada7cf70" title="Checks if viewer is watching a stream." alt="" coords="215,56,335,83"/>
+</map>

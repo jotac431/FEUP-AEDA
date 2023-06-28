@@ -1,0 +1,4 @@
+<map id="StreamZ::deactivateUser" name="StreamZ::deactivateUser">
+<area shape="rect" id="node1" title="Deactivates a user, closes streams/leaves them and sets state to inactive." alt="" coords="129,5,293,32"/>
+<area shape="rect" id="node2" href="$main_8cpp.html#a3515cb8a3699bad00baf8616470093bd" title="Handles de/reactivating accounts." alt="" coords="5,5,81,32"/>
+</map>

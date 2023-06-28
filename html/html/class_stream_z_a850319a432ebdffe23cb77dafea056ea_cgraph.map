@@ -1,0 +1,6 @@
+<map id="StreamZ::addViewer" name="StreamZ::addViewer">
+<area shape="rect" id="node1" title="Constructs and adds a viewer to the list, checks if nickname is used, returns pointer." alt="" coords="5,5,144,32"/>
+<area shape="rect" id="node2" href="$class_stream_z.html#a73780b51815a0f0e6d40267519eed1cc" title="Checks if a given nickname has been used before." alt="" coords="192,5,367,32"/>
+<area shape="rect" id="node3" href="$class_stream_z.html#ac3372c6e5a69c188e1eb7fe4b45a2499" title="Gets a pointer from a nickname." alt="" coords="415,5,529,32"/>
+<area shape="rect" id="node4" href="$ficheiros_2utils_8cpp.html#a0c059e7053ab8418c35efd508d797496" title="Makes all letters lowercase." alt="" coords="577,5,657,32"/>
+</map>

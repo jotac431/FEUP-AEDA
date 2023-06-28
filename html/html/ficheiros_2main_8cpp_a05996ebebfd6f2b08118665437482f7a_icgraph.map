@@ -1,0 +1,4 @@
+<map id="streamerMenu" name="streamerMenu">
+<area shape="rect" id="node1" title="Streamer menu handling their display and commands." alt="" coords="128,5,233,32"/>
+<area shape="rect" id="node2" href="$ficheiros_2main_8cpp.html#a4e4492a8a7c707176ca2e26959094c9a" title="Logic to handle receiving a nickname and selecting a user from it then loading their menu." alt="" coords="5,5,80,32"/>
+</map>

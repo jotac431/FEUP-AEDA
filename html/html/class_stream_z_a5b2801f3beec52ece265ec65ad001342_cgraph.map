@@ -1,0 +1,12 @@
+<map id="StreamZ::viewerJoinStream" name="StreamZ::viewerJoinStream">
+<area shape="rect" id="node1" title="Tries to make a viewer watch a stream and handles exceptions." alt="" coords="5,157,184,184"/>
+<area shape="rect" id="node2" href="$class_user.html#a71385d4c5a3a509af5024b3c8e1e1aa9" title="Gets user age." alt="" coords="273,5,372,32"/>
+<area shape="rect" id="node4" href="$class_user.html#a0d92dd92076037e61fc17e6d67e35698" title="Gets nickname." alt="" coords="272,56,373,83"/>
+<area shape="rect" id="node5" href="$class_private_stream.html#a3a347898db797e7a317170b43b7d42f6" title="Checks if private stream hit capacity." alt="" coords="251,107,394,133"/>
+<area shape="rect" id="node6" href="$ficheiros_2utils_8cpp.html#a0c059e7053ab8418c35efd508d797496" title="Makes all letters lowercase." alt="" coords="483,157,563,184"/>
+<area shape="rect" id="node7" href="$class_private_stream.html#a0d0cad07903750a66fbc5c81fc59481e" title="Function to check whether a user is allowed in a private stream." alt="" coords="232,208,413,235"/>
+<area shape="rect" id="node9" href="$class_viewer.html#ad7b314efbe2fed24b6b6ba7aada7cf70" title="Checks if viewer is watching a stream." alt="" coords="263,259,383,285"/>
+<area shape="rect" id="node10" href="$class_viewer.html#a60bd983264c9b7b6ae328ad23fb59456" title="Sets watchingStream to given pointer." alt="" coords="250,309,395,336"/>
+<area shape="rect" id="node3" href="$class_date.html#a4e0b0528badcf7931fcbc621eba2d934" title="Gets current date and returns age from a given birthdate." alt="" coords="483,5,562,32"/>
+<area shape="rect" id="node8" href="$ficheiros_2utils_8h.html#a8c2fd0e3c1e98ceb41386c063d5b1587" title="Procura numa lista." alt="" coords="461,208,584,235"/>
+</map>

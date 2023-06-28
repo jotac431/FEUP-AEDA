@@ -1,0 +1,18 @@
+<map id="User::getNick" name="User::getNick">
+<area shape="rect" id="node1" title="Gets nickname." alt="" coords="505,208,607,235"/>
+<area shape="rect" id="node2" href="$class_stream_z.html#a3cc8d097e4dc293e003167232ac55600" title="Adds a donation to the list." alt="" coords="293,5,443,32"/>
+<area shape="rect" id="node3" href="$ficheiros_2main_8cpp.html#a33028e19b977fe63751db1b518b39243" title="Admin menu handling their display and commands." alt="" coords="323,309,413,336"/>
+<area shape="rect" id="node5" href="$class_stream_z.html#a66f8f0fa6868a38a92676c3ee4fd7865" title="Deletes a user, ie removes them from the list, closes streams/leaves them and delete()" alt="" coords="297,107,439,133"/>
+<area shape="rect" id="node6" href="$class_viewer.html#a0472106504b871eb879105f046680972" title="Adds message feedback on a private stream." alt="" coords="287,56,449,83"/>
+<area shape="rect" id="node8" href="$main_8cpp.html#a2bbfac587cfc2d41494e70bc39aded90" title="Handles getting args for purchasing requests/deletions." alt="" coords="319,208,417,235"/>
+<area shape="rect" id="node9" href="$ficheiros_2main_8cpp.html#a05996ebebfd6f2b08118665437482f7a" title="Streamer menu handling their display and commands." alt="" coords="315,259,421,285"/>
+<area shape="rect" id="node10" href="$class_stream.html#a3b0374f4ee78ca1238e5110190f2a697" title="Returns nickname of streamer whose stream this belongs to." alt="" coords="289,360,447,387"/>
+<area shape="rect" id="node12" href="$class_stream_z.html#a5b2801f3beec52ece265ec65ad001342" title="Tries to make a viewer watch a stream and handles exceptions." alt="" coords="279,411,457,437"/>
+<area shape="rect" id="node16" href="$ficheiros_2main_8cpp.html#acf6f35e40761cfd4a866272c5aed0051" title="Viewer menu handling their display and commands." alt="" coords="323,157,413,184"/>
+<area shape="rect" id="node4" href="$ficheiros_2main_8cpp.html#a4e4492a8a7c707176ca2e26959094c9a" title="Logic to handle receiving a nickname and selecting a user from it then loading their menu." alt="" coords="128,259,203,285"/>
+<area shape="rect" id="node7" href="$ficheiros_2main_8cpp.html#a1e815e89b361e2a2e36bc495aa2d469c" title="Handles getting parameters and calling feedback functions." alt="" coords="128,56,203,83"/>
+<area shape="rect" id="node11" href="$class_viewer.html#a24ac54933b77bd335998e50eef03f96f" title="Used to save to files." alt="" coords="118,360,213,387"/>
+<area shape="rect" id="node13" href="$ficheiros_2main_8cpp.html#ae38a61dd9472fec14cfcf75b42f899cf" title="Handles getting the streamer nickname which the viewer wants to join." alt="" coords="144,461,187,488"/>
+<area shape="rect" id="node14" href="$class_stream_z.html#ab2eb474a6946504078a9d5d06b91130e" title="Loads current state from a file." alt="" coords="100,411,231,437"/>
+<area shape="rect" id="node15" href="$ficheiros_2main_8cpp.html#ae7abed80d31463acb6a616ffd991f41e" title="Handles receiving a path and loading from it." alt="" coords="5,411,52,437"/>
+</map>
