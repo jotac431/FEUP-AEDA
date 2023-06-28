@@ -1,2 +1,2 @@
 # FEUP-AEDA
-FEUP - Algoritmos e Estruturas de Dados
+FEUP - Algoritmos e Estruturas de Dados Project
